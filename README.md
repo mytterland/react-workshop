@@ -1,6 +1,6 @@
 # react-workshop
 
-Installer Visual Studio Code på din maskin: 
+Installer Visual Studio Code: 
 https://code.visualstudio.com/download
 
 Sjekk om du har **git** installert:  
